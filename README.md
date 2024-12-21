@@ -12,9 +12,9 @@ Version control is the process of managing and tracking changes made to a set of
 
 ## 3 Github Alternatives
 
-1. GitLab
-2. Bitbucket
-3. Codeberg
+1. [GitLab](https://about.gitlab.com/)
+2. [Bitbucket](https://bitbucket.org/)
+3. [Codeberg](https://codeberg.org/)
 
 ## Difference between `git fetch` and `git pull`,
 
