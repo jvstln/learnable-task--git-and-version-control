@@ -16,7 +16,7 @@ Version control is the process of managing and tracking changes made to a set of
 2. Bitbucket
 3. Codeberg
 
-Difference between `git fetch` and `git pull`,
+## Difference between `git fetch` and `git pull`,
 
 - `git fetch` downloads new branches and commits from a remote repository
 
